@@ -5,7 +5,7 @@ Desert Hover-Car Racer is a 3D racing game prototype developed in C++ using the 
 Players control a futuristic hover-car across a desert racetrack, completing checkpoints in sequence while avoiding obstacles and managing collisions.  
 This implementation has been completed up to the **70+ grade band (First Class)**, including boost mechanics, non-player cars, lap tracking, and advanced state management.
 
-## Features (Implemented up to 70+)
+## Features
 - 🏁 **Scene Setup**: Desert track with checkpoints, walls, skybox, tanks, and obstacles.
 - 🎮 **Game States**: Start, Racing, Stage Complete, Race Complete — managed with enumerated types.
 - 🚗 **Hover-Car Physics**:
