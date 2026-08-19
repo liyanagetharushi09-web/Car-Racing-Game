@@ -36,4 +36,8 @@ Deliverables:
 - Report including scale, speed, drag coefficient, and collision math
 - Map of racecourse with checkpoints and obstacles
 
-Enjoy racing through the desert and mastering hover-car control!
+Enjoy racing through the desert and mastering hover-car control! 
+
+--------------------------------
+Developed for CO1301 Games Concepts Coursework (Car Racing Game!)  
+University of Lancashire, Academic Year 2025-26
